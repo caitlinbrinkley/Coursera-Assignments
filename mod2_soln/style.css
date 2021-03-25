@@ -4,8 +4,8 @@
 }
 
 body{
-  margin: 0;
-  padding: 0;
+      margin: 0;
+      padding: 0;
   font-family:'Courier New', monospace;
 }
 
@@ -54,15 +54,15 @@ h1 {
 
 
 .name1{
-  bacground-color: #FFB6C1;
+  background-color: #A0E7E5;
 }
 
 .name2{
-  bacground-color: #FF0000;
+  background-color: #B4F8C8;
 }
 
 .name3{
-  bacground-color: #FFFF00;
+  background-color: ##FFAEBC;
 }
 
 /********** Large devices only **********/
