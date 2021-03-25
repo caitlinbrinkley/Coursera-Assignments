@@ -1,2 +1,2 @@
-# Coursera-Assignments
-Coursera assignment folder
+# Coursera Assignment 2
+
