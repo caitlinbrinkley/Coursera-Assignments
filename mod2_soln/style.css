@@ -28,7 +28,7 @@ h1 {
 }
 
 
-.cont-name{
+.content-name{
   overflow: none;
   text-align: center;
   border: 4px solid black;
@@ -42,7 +42,7 @@ h1 {
   position: relative;
 }
 
-.cont{
+.content{
   border: 5px solid black;
   width: 90%;
   height: auto;
@@ -70,7 +70,7 @@ h1 {
 /********** Large devices only **********/
 @media (min-width: 992px) {
    .col-lg-4 {
-          float: left;
+        float: left;
         width: 33.33%
      }
  }
