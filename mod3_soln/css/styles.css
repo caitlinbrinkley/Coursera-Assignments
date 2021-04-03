@@ -34,7 +34,7 @@ body {
     color: #080808;
     font-family: 'Lobster', cursive;
     font-weight: bolder;
-    font-size: 1.9em;
+    font-size: 2em;
 }
 
 .navbar-brand a:hover {
@@ -50,7 +50,7 @@ body {
     /*text-align: center;*/
     font-weight: bolder;
     color: #100c08;
-    font-size: 1.4em;
+    font-size: 1.6em;
 }
 
 #nav-list a:hover {
@@ -89,7 +89,7 @@ body {
     padding: 20px;
     background-color: #fffafa;
     margin-bottom: 45px;
-    box-shadow: 0 0 70px #c1c1c1;
+    box-shadow: 0 0 50px #c1c1c1;
 }
 
 /** END HOME PAGE **/
