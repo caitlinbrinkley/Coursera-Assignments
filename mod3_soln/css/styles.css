@@ -1,5 +1,5 @@
 body {
-    font-size: 16px;
+    font-size: 15px;
     font-family: 'Courier New', monospace;
     color: #010203;
     background-color: #f8ebeb;
@@ -25,8 +25,8 @@ body {
 }
 
 .navbar-brand, .navbar-nav li a {
-    line-height: 76px;
-    height: 76px;
+    line-height: 80px;
+    height: 80px;
     padding-top: 0;
 }
 
@@ -34,12 +34,12 @@ body {
     color: #080808;
     font-family: 'Lobster', cursive;
     font-weight: bolder;
-    font-size: 1.8em;
+    font-size: 1.9em;
 }
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fffafa;
+    text-shadow: 2px 2px 2px #fffafa;
 }
 
 #nav-list {
@@ -50,7 +50,7 @@ body {
     /*text-align: center;*/
     font-weight: bolder;
     color: #100c08;
-    font-size: 1.2em;
+    font-size: 1.4em;
 }
 
 #nav-list a:hover {
@@ -67,8 +67,8 @@ body {
 /** HOME PAGE **/
 
 #main-content {
-    width: 92%;
-    margin-bottom: 30px;
+    width: 90%;
+    margin-bottom: 20px;
 }
 
 #main-content h2 {
@@ -88,8 +88,8 @@ body {
     width: 100%;
     padding: 20px;
     background-color: #fffafa;
-    margin-bottom: 60px;
-    box-shadow: 0 0 80px #c1c1c1;
+    margin-bottom: 45px;
+    box-shadow: 0 0 70px #c1c1c1;
 }
 
 /** END HOME PAGE **/
