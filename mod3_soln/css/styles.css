@@ -87,9 +87,9 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #c1c1c1;
+    background-color: #fffafa;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #708090;
+    box-shadow: 0 0 80px #c1c1c1;
 }
 
 /** END HOME PAGE **/
