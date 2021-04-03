@@ -43,23 +43,23 @@ body {
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: #ddadaf;
 }
 
 #nav-list a {
     /*text-align: center;*/
     font-weight: bolder;
-    color: #282828;
+    color: #100c08;
     font-size: 1.2em;
 }
 
 #nav-list a:hover {
-    color: #202020;
-    background-color: #fce29e;
+    color: #010203;
+    background-color: #e59e9d;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7d1913;
+    border: 1px solid #c96d6b;
 }
 
 /** END HEADER */
@@ -87,9 +87,9 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #c1c1c1;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 80px #708090;
 }
 
 /** END HOME PAGE **/
