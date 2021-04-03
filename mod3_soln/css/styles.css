@@ -62,6 +62,7 @@ body {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #7d1913;
 }
+
 /** END HEADER */
 
 /** HOME PAGE **/
@@ -91,4 +92,5 @@ body {
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
+
 /** END HOME PAGE **/
